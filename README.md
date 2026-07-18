@@ -1,79 +1,104 @@
+###
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <table>
+        <tr align="center"><td>
+          <h1>
+            Hi <img src="https://raw.githubusercontent.com/abhinit21/abhinit21/main/emojis/wave.gif" width="30" height="30" /> I'm Yusufbek
+          </h1>
+        </td></tr>
+        <tr><td>
+          <a href="https://github.com/khamidullaevv" >
+             <img alt="Typing Banner" width="475em" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=475&lines=Backend+Developer;Python+%2F+Django;Linux+Power+User;Building+CRM+Systems" />
+          </a>
+        </td></tr>
+      </table>
+    </td>
+    <td align="center">
+      <table>
+        <tr align="center"><td><img height="30" src="https://profile-counter.glitch.me/khamidullaevv/count.svg?" alt="Visitor Count" /></td></tr>
+        <tr><td>
+          <a href="https://github.com/khamidullaevv?tab=followers" >
+            <img width="240em" src="https://img.shields.io/github/followers/khamidullaevv?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+          </a>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+###
+
+- 🌱 I’m currently learning **Advanced Mathematics, Physics, and Technical English**
+
+- 👨‍💻 All of my major projects are available at [https://github.com/khamidullaevv](https://github.com/khamidullaevv)
+
+- 🛠️ Current Project: Developing a production-ready **CRM system** for an educational center
+
+- 💬 Ask me about **Backend Development, Python, Django, Docker, and Celery**
+
+- 📫 How to reach me **yusufbekkhamidulaev@gmail.com**
+
+- ⚡ Fun fact **I run Fedora Linux and build a massive digital Second Brain in Obsidian**
+
+###
+
+<h1 align="left">
+    💻 Tools and Technology
+</h1>
+
 <div align="center">
-
-# Hey there! I'm Yusufbek 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%2F+Django+Enthusiast;Linux+Power+User;Building+Scalable+Systems" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://github.com/khamidullaevv">
-    <img src="https://img.shields.io/github/followers/khamidullaevv?label=Followers&style=flat-square&color=7aa2f7" alt="Followers">
-  </a>
-</p>
-
----
-
+  <!-- Dynamic grid showcasing your exact developer stack -->
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,redis,docker,linux,fedora,git,github&theme=dark" alt="My Skills" />
 </div>
 
-### 🚀 About Me
-- 🛠️ **Current Project:** Architecting a comprehensive, production-ready **CRM system** for an educational center using Django, Celery, and Docker. <!-- -->
-- 🧠 **Knowledge Management:** Building a highly interconnected "Second Brain" inside **Obsidian** to map out algorithms, system design patterns, and daily engineering insights. <!-- -->
-- 🐧 **Environment:** A dedicated **Linux user** who loves terminal-centric workflows, dotfile customization, and automation. <!-- -->
-- 📈 **Growth Mindset:** Actively leveling up my foundations in advanced mathematics, computer science fundamentals, and technical English. <!-- -->
+###
 
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-#### 🔹 Backend & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-#### 🔹 DevOps & Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Celery-373A3C?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-#### 🔹 OS & Productivity
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-3C6EB4?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
-</p>
-
----
-
-### 📊 Performance & Git Stats
+<h1 align="left">
+    🎖️ GitHub Stats
+</h1>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img
+    alt="GitHub Stats" height="165em"
+    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=khamidullaevv&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
----
+<div align="center">
+  <img
+    alt="GitHub Streak" height="165em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullaevv&theme=tokyonight&hide_border=false" />
+</div>
 
-### 📦 3D Isometric Contributions
-<p align="center">
-  <!-- Если инструмент Spectrewolf8 использует стандартный эндпоинт, ссылка ниже сработает сразу. -->
-  <!-- Если там нужен GitHub Action, просто замени src на путь к сгенерированному файлу. -->
+###
+
+<h1 align="left">
+    📦 3D Isometric Contributions
+</h1>
+
+<div align="center">
+  <!-- Premium 3D isometric representation of your commit grid -->
   <img src="https://github-readme-3d-graph.vercel.app/api?username=khamidullaevv&theme=tokyonight" alt="Yusufbek's 3D Contributions" />
-</p>
+</div>
 
----
+###
 
-### 📫 Let's Connect
-- **Telegram:** [@khamidullaev_dev](https://t.me/khamidullaev_dev)
-- **Email:** `yusufbekkhamidulaev@gmail.com`
+<h1 align="left">
+    👋 Connect With Me
+</h1>
+
+<div align="center">
+  <a href="https://t.me/khamidullaev_dev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="38" />
+  </a>
+  <a href="mailto:yusufbekkhamidulaev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
+  </a>
+</div>
+
+###
