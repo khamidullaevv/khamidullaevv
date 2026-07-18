@@ -83,11 +83,12 @@
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
+<h2 align="center">
+📊 GitHub Metrics
+</h2>
+
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=2&column=4"
-    alt="GitHub Trophies"
-  />
+  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/main/github-metrics.svg">
 </p>
 <br/>
 
