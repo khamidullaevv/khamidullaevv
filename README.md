@@ -65,8 +65,15 @@
 
 ---
 
-### 🎮 Contribution History
+### 📦 3D Isometric Contributions
+<p align="center">
+  <!-- Замени ссылку ниже на ту, которую сгенерирует репозиторий Spectrewolf8 для твоего профиля -->
+  <img src="https://github-readme-3d-graph.vercel.app/api?username=khamidullaevv&theme=tokyonight" alt="Yusufbek's 3D Contributions" />
+</p>
 
+---
+
+### 🎮 Contribution History (The Snake Game)
 <p align="center">
   <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-graph-snake.svg" alt="Snake Animation" />
 </p>
