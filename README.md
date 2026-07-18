@@ -49,7 +49,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,linux,fedora,bash,git,github,html,css,js,vscode,obsidian&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,linux,bash,git,github,html,css,js,vscode,obsidian&theme=dark" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
