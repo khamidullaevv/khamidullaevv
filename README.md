@@ -104,9 +104,8 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <i>Will be configured in Step 2 using GitHub Actions.</i>
+  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
