@@ -52,23 +52,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,linux,fedora,bash,git,github,html,css,js,vscode,obsidian&theme=dark" />
 </p>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
 
 <h2 align="center">📈 Activity Graph</h2>
