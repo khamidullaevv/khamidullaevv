@@ -56,7 +56,7 @@
 ### 🎮 Contribution History (The Snake Game)
 <!-- This turns your contribution grid into an animated game! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-graph-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/khamidullaevv/output/github-contribution-graph-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
