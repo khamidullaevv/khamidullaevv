@@ -60,19 +60,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
 </p>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
-
-<h2 align="center">📦 3D Isometric Contributions</h2>
-
-<p align="center">
-  <i>Will be configured in Step 3 using isometric-contributions-embeds.</i>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
-</p>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
