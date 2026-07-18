@@ -81,12 +81,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
