@@ -67,17 +67,6 @@
 </p>
 <br/>
 
-<div align="center">
-  <a href="https://github.com/khamidullaevv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khamidullaevv&repo=django-rest-api&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/khamidullaevv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khamidullaevv&repo=portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
 
 <h2 align="center">🌐 Connect With Me</h2>
