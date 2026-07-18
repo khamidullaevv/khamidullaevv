@@ -15,10 +15,10 @@
 </div>
 
 ### 🚀 About Me
-- 🛠️ **Current Project:** Architecting a comprehensive, production-ready **CRM system** for an educational center using Django, Celery, and Docker.
-- 🧠 **Knowledge Management:** Building a highly interconnected "Second Brain" inside **Obsidian** to map out algorithms, system design patterns, and daily engineering insights.
-- 🐧 **Environment:** A dedicated **Linux user** who loves terminal-centric workflows, dotfile customization, and automation.
-- 📈 **Growth Mindset:** Actively leveling up my foundations in advanced mathematics, computer science fundamentals, and technical English.
+- 🛠️ **Current Project:** Architecting a comprehensive, production-ready **CRM system** for an educational center using Django, Celery, and Docker. <!-- -->
+- 🧠 **Knowledge Management:** Building a highly interconnected "Second Brain" inside **Obsidian** to map out algorithms, system design patterns, and daily engineering insights. <!-- -->
+- 🐧 **Environment:** A dedicated **Linux user** who loves terminal-centric workflows, dotfile customization, and automation. <!-- -->
+- 📈 **Growth Mindset:** Actively leveling up my foundations in advanced mathematics, computer science fundamentals, and technical English. <!-- -->
 
 ---
 
@@ -67,15 +67,9 @@
 
 ### 📦 3D Isometric Contributions
 <p align="center">
-  <!-- Замени ссылку ниже на ту, которую сгенерирует репозиторий Spectrewolf8 для твоего профиля -->
+  <!-- Если инструмент Spectrewolf8 использует стандартный эндпоинт, ссылка ниже сработает сразу. -->
+  <!-- Если там нужен GitHub Action, просто замени src на путь к сгенерированному файлу. -->
   <img src="https://github-readme-3d-graph.vercel.app/api?username=khamidullaevv&theme=tokyonight" alt="Yusufbek's 3D Contributions" />
-</p>
-
----
-
-### 🎮 Contribution History (The Snake Game)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-graph-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
