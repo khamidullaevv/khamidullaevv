@@ -88,7 +88,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/main/github-metrics.svg">
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=tokyo-night&hide_border=true"/>
 </p>
 <br/>
 
