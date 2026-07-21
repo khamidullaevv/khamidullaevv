@@ -24,7 +24,7 @@
 
 <p align="center">
   Backend developer focused on Python, Django, PostgreSQL, Redis, and Docker.<br/>
-  Currently architecting a production-ready CRM system and configuring Fedora Linux workflows.
+  Currently architecting a production-ready CRM system and configuring NixOS Linux workflows.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2"/>
