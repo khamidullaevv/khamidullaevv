@@ -1,52 +1,44 @@
-<div align="center">
+<h1 align="center">🤖 Yusufbek Khamidullayev (Sairex)</h1>
 
-# 👨‍💻 Yusufbek Khamidullaev (Sairex)
+<h3 align="center">🚀 Backend Developer · Python & Rust Engineer</h3>
 
-### 🚀 Backend Developer · Python & Rust Engineer
+<p align="center">
+  <b>Rust</b> &nbsp;•&nbsp; <b>Tauri</b> &nbsp;•&nbsp; <b>Python</b> &nbsp;•&nbsp; <b>Django</b> &nbsp;•&nbsp; <b>Docker</b> &nbsp;•&nbsp; <b>Linux</b>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Python+%7C+Django+%7C+Celery+%7C+Redis;Rust+%7C+Tauri+%7C+System+Programming;Linux+%7C+Docker+%7C+PostgreSQL;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://t.me/khamidullaev_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://sairex-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/yusufbek-khamidullaev-757574389" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=catppuccin&margin-w=15&row=1" alt="khamidullaevv trophies" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Activity & Statistics
 
-<div align="center">
-  ![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin)
-  <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+</p>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,django,postgres,redis,docker,git,linux,fedora,neovim,vscode&theme=dark" alt="Skill Icons" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khamidullaev_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufbekkhamidullaev@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
