@@ -29,10 +29,9 @@
 ### 📊 Activity & Statistics
 
 
-![GitHub Stats](https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin&hide_border=true&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin&hide_border=true&layout=compact&v=1)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin&hide_border=true&layout=compact)
 </br>
 
 <p align="center">
