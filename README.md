@@ -23,8 +23,12 @@
 <div align="center">
   <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
