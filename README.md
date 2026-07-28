@@ -21,7 +21,7 @@
 ### 📊 Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  ![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin)
   <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
 </div>
 
