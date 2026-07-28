@@ -22,22 +22,17 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=catppuccin&margin-w=15&row=1" alt="khamidullaevv trophies" />
-  </a>
-</p>
+[![khamidullaevv trophies](https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=catppuccin&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact" width="400" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact)
 
-<br />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true)
+
+</br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" alt="Contribution Graph" />
