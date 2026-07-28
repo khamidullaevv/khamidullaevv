@@ -47,19 +47,9 @@ Backend Developer · Python & Rust Engineer
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=khamidullaevv&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [CRM System](https://github.com/khamidullaevv/crm-project) | Modular CRM with async tasks and caching | Django, Celery, Redis, PostgreSQL |
-| [Rust Desktop App](https://github.com/khamidullaevv/rust-app) | Cross-platform native application | Rust, Tauri, SQLite |
-| [CLI Tool](https://github.com/khamidullaevv/cli-tool) | Automation utility for development workflows | Python, Click, Docker |
 
 ---
 
