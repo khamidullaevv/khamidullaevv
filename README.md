@@ -1,65 +1,22 @@
-<div align="center">
+<h1 align="center">Hey there, I'm Yusufbek 👋</h1>
 
-# Yusufbek (Sairex)
+<p align="center">
+  <b>Backend Developer · Python & Rust Engineer</b><br>
+  <i>Crafting scalable backend architectures, desktop apps, and clean code.</i>
+</p>
 
-Backend Developer · Python & Rust Engineer  
-*Building robust systems, writing clean code, exploring architecture*
-
-</div>
-
----
-
-### About
-
-- Currently developing a CRM system with Django, Celery, and Redis
-- Building a cross-platform desktop application using Rust and Tauri
-- Interested in backend architecture, Open Source, Linux, and PKM/Obsidian
-- Focused on writing maintainable, testable, and performant code
+<p align="center">
+  <a href="https://t.me/khamidullaev_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:yusufbekkhamidullaev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-### Technology Stack
+### ⚡ About Me
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-**Backend & Frameworks**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-</div>
-
----
-
-### Connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khamidullaev_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufbekkhamidullaev@gmail.com)
-
----
-
-<div align="center">
-
-*Code is poetry, architecture is art.*
-
-</div>
+```text
+├── 👨‍💻 Current Focus  : Building a CRM for study centers (Django + Celery + Redis)
+├── 🚀 Side Project   : Cross-platform desktop app in Rust & Tauri
+├── 🐧 OS & Workflow  : Daily Linux user (Fedora / NixOS) & PKM with Obsidian
+└── 🎯 Goal          : Designing robust, high-performance distributed systems
