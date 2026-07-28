@@ -2,9 +2,9 @@
 
 # 👨‍💻 Yusufbek Khamidullaev (Sairex)
 
-### 🚀 Backend & Systems Engineer | Python & Rust
+### 🚀 Backend Developer · Python & Rust Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Python+%7C+Django+%7C+Celery+%7C+Redis;Rust+%7C+Tauri+%7C+System+Programming;Linux+%7C+Docker+%7C+PostgreSQL;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7AA2F7&center=true&vcenter=true&width=550&lines=Python+%7C+Django+%7C+Celery+%7C+Redis;Rust+%7C+Tauri+%7C+System+Programming;Linux+%7C+Docker+%7C+PostgreSQL;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -21,18 +21,10 @@
 ### 📊 Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-alpha-81.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 </div>
 
 ---
@@ -40,17 +32,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,django,postgres,redis,docker,git,linux,fedora,neovim,vscode&theme=dark" alt="Skill Icons" />
-</div>
-
----
-
-### 🎵 Listening on Spotify
-
-<div align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
-    <img src="https://spotify-github-readme.vercel.app/api/default?summary=true" alt="Spotify Player" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,rust,django,postgres,redis,docker,git,linux,fedora,neovim,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 ---
