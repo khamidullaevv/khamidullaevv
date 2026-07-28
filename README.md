@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ЗАГОЛОВОК И ТАЙПИНГ SVG -->
 # <font size="7" color="#7aa2f7">YUSUFBEK KHAMIDULLAEV</font>
 
 <br>
@@ -13,16 +12,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=3"/>
 <br>
 
-<!-- МОНОЛИТНАЯ СТАТИСТИКА -->
 <p align="center">
   <img src="https://github-readme-state-seven-alpha-61.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-state-seven-alpha-61.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-state-seven-alpha-61.vercel.app/api/top-langs?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- ОБО МНЕ -->
 <p width="80%">
   <strong>Backend developer focused on Python, Django, PostgreSQL, Redis, and Docker.</strong><br/>
   <strong>Current workflow: Architecting production CRM systems | Customizing CachyOS Linux workflows.</strong>
@@ -30,7 +27,6 @@
 
 ---
 
-<!-- RAW TOOLS -->
 <h2>RAW TOOLS</h2>
 <br>
 <p align="center">
@@ -39,14 +35,12 @@
 
 ---
 
-<!-- CODE PULSE (Activity Graph) -->
 <h2>CODE PULSE</h2>
 <br>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
 
 ---
 
-<!-- DIRECT CONNECT (Monolithic Badges) -->
 <h2>DIRECT CONNECT</h2>
 <br>
 <p align="center">
