@@ -1,6 +1,6 @@
 <div align="center">
 
-```aura width=900 height=240
+aura width=900 height=240
 <div style={{
   display: "flex",
   width: "100%",
@@ -95,11 +95,11 @@ fontSize:"14px"
 </div>
 
 </div>
-```
+
 
 </div>
 
----
+
 
 ## GitHub Stats
 
