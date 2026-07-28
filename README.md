@@ -23,15 +23,9 @@
 ### 📊 Activity & Statistics
 
 <p align="center">
-  <a href="https://github.com/khamidullaevv">
-    <img src="https://ghstats.dev/api/card?username=khamidullaevv&theme=catppuccin&border_radius=10" alt="GitHub Stats" />
-  </a>
+  <img src="./assets/profile-card.svg" alt="Profile card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="./assets/stats-card.svg" alt="GitHub Stats" />
 </p>
