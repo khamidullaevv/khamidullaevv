@@ -26,10 +26,13 @@
 
 ### 📊 Activity & Statistics
 
-[![GitHub Stats](https://ghstats.dev/api/card?username=khamidullaevv&theme=catppuccin&border_radius=10)](https://github.com/khamidullaevv)
+<p align="center">
+  <a href="https://github.com/khamidullaevv">
+    <img src="https://ghstats.dev/api/card?username=khamidullaevv&theme=catppuccin&border_radius=10" alt="GitHub Stats" />
+  </a>
+</p>
 
 ![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact)
-</br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" alt="Contribution Graph" />
