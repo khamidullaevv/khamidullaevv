@@ -5,7 +5,7 @@
 
 <br>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=BACKEND+DEVELOPER;PYTHON+/+DJANGO;LINUX+USER;BUILDING+CRM+SYSTEMS" alt="Typing SVG" />
 </p>
 
@@ -14,19 +14,18 @@
 <br>
 
 <!-- МОНОЛИТНАЯ СТАТИСТИКА -->
-<!-- Скрыты ранги, границы, чтобы показать чистую силу метрик -->
-<p>
-<img src="https://github-readme-stats-seven-alpha-81.vercel.app/api?username=khamidullaevv&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true" alt="Yusufbek's GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-state-seven-alpha-61.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
+  <img src="https://github-readme-state-seven-alpha-61.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- ОБО МНЕ (bold text instead of about header) -->
+<!-- ОБО МНЕ -->
 <p width="80%">
   <strong>Backend developer focused on Python, Django, PostgreSQL, Redis, and Docker.</strong><br/>
-  <strong>Current workflow: Architecting production CRM systems | Customizing Cachyos Linux workflows.</strong>
+  <strong>Current workflow: Architecting production CRM systems | Customizing CachyOS Linux workflows.</strong>
 </p>
 
 ---
@@ -34,8 +33,8 @@
 <!-- RAW TOOLS -->
 <h2>RAW TOOLS</h2>
 <br>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,linux,bash,git,github,html,css,js,vscode,obsidian&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,linux,bash,git,github,html,css,js,vscode,obsidian&theme=dark" alt="Skill Icons" />
 </p>
 
 ---
@@ -43,14 +42,14 @@
 <!-- CODE PULSE (Activity Graph) -->
 <h2>CODE PULSE</h2>
 <br>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
 
 ---
 
 <!-- DIRECT CONNECT (Monolithic Badges) -->
 <h2>DIRECT CONNECT</h2>
 <br>
-<p>
+<p align="center">
   <a href="https://t.me/khamidullaev_dev">
     <img src="https://img.shields.io/badge/TELEGRAM-1a1b27?style=for-the-badge&logo=telegram&logoColor=7aa2f7" alt="Telegram" />
   </a>
