@@ -24,9 +24,8 @@
 
 [![khamidullaevv trophies](https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=catppuccin&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
 ### 📊 Activity & Statistics
+
 ![GitHub Stats](https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact)
