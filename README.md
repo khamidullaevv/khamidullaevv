@@ -1,6 +1,6 @@
 <h1 align="center"> Yusufbek Khamidullayev (Sairex)</h1>
 
-<h3 align="center">Backend Developer · Python & Rust Engineer</h3>
+<h3 align="center">Backend Developer · Python</h3>
 
 <p align="center">
   <b>Rust</b> &nbsp;•&nbsp; <b>Tauri</b> &nbsp;•&nbsp; <b>Python</b> &nbsp;•&nbsp; <b>Django</b> &nbsp;•&nbsp; <b>Docker</b> &nbsp;•&nbsp; <b>Linux</b>
