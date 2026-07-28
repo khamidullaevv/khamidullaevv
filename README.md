@@ -41,14 +41,12 @@ Backend Developer · Python & Rust Engineer
 
 ### GitHub Statistics
 
+
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ---
