@@ -1,25 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=180&section=header&text=Yusufbek%20Khamidullaev&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&lines=Backend+Developer;Python+%26+Rust+Engineer;Building+scalable+systems;Linux+%26+Open+Source+enthusiast" alt="Typing SVG" />
+
+# 👨‍💻 Yusufbek Khamidullaev (Sairex)
+
+### 🚀 Backend & Systems Engineer | Python & Rust
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Python+%7C+Django+%7C+Celery+%7C+Redis;Rust+%7C+Tauri+%7C+System+Programming;Linux+%7C+Docker+%7C+PostgreSQL;Building+Scalable+Backend+Systems)](https://git.io/typing-svg)
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khamidullaevv&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://t.me/khamidullaev_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:yusufbekkhamidullaev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
-### ⚡ About Me
+### 🏆 GitHub Trophies
 
-```text
-├── 👨‍💻 Current Focus  : Building a CRM system (Django + Celery + Redis)
-├── 🚀 Side Project   : Desktop application in Rust & Tauri
-├── 🐧 OS & Tools     : Daily Linux user (Fedora / NixOS) & PKM with Obsidian
-└── 🎯 Goal          : High-performance backend & distributed systems
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+---
+
+### 📊 Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=khamidullaevv&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,django,postgres,redis,docker,git,linux,fedora,neovim,vscode&theme=dark" alt="Skill Icons" />
+</div>
+
+---
+
+### 🎵 Listening on Spotify
+
+<div align="center">
+  <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
+    <img src="https://spotify-github-readme.vercel.app/api/default?summary=true" alt="Spotify Player" />
+  </a>
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/khamidullaev_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufbekkhamidullaev@gmail.com)
+
+</div>
