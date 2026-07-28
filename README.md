@@ -41,7 +41,6 @@ Backend Developer · Python & Rust Engineer
 
 ### GitHub Statistics
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
