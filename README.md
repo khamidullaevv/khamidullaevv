@@ -26,7 +26,7 @@
 
 ### 📊 Activity & Statistics
 
-![GitHub Stats](https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true)
+[![GitHub Stats](https://ghstats.dev/api/card?username=khamidullaevv&theme=catppuccin&border_radius=10)](https://github.com/khamidullaevv)
 
 ![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact)
 </br>
