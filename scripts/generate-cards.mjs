@@ -2,7 +2,6 @@ import fs from "node:fs";
 import path from "node:path";
 import satori from "satori";
 import { h } from "./h.mjs";
-import { fetchGoogleFontTtf } from "./fetch-font.mjs";
 
 const USERNAME = process.env.GH_USERNAME;
 const TOKEN = process.env.GH_TOKEN;
@@ -309,11 +308,21 @@ async function main() {
   console.log(`Fetching GitHub data for ${USERNAME}...`);
   const stats = await fetchStats(USERNAME);
 
-  console.log("Fetching fonts...");
-  const [regular, bold] = await Promise.all([
-    fetchGoogleFontTtf("Inter", 400),
-    fetchGoogleFontTtf("Inter", 700),
-  ]);
+  console.log("Loading fonts...");
+  // typeface-roboto ships true static (non-variable) .woff files per weight —
+  // satori cannot parse variable-font `fvar` tables reliably, and Google
+  // Fonts no longer reliably serves .ttf via the legacy-User-Agent trick,
+  // so we bundle a known-good static font via npm instead of fetching one
+  // over the network at build time.
+  const fontDir = path.join(
+    path.dirname(new URL(import.meta.url).pathname),
+    "..",
+    "node_modules",
+    "typeface-roboto",
+    "files"
+  );
+  const regular = fs.readFileSync(path.join(fontDir, "roboto-latin-400.woff"));
+  const bold = fs.readFileSync(path.join(fontDir, "roboto-latin-700.woff"));
 
   const fonts = [
     { name: "Inter", data: regular, weight: 400, style: "normal" },
