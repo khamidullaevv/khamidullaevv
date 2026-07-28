@@ -16,7 +16,7 @@
 <!-- МОНОЛИТНАЯ СТАТИСТИКА -->
 <!-- Скрыты ранги, границы, чтобы показать чистую силу метрик -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true" alt="Yusufbek's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=khamidullaevv&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true" alt="Yusufbek's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" />
 </p>
