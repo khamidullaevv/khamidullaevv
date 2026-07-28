@@ -33,12 +33,12 @@
 ### 📊 Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs/?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact" width="400" alt="Top Languages" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
