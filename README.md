@@ -1,6 +1,6 @@
-<h1 align="center"> Yusufbek Khamidullayev (Sairex)</h1>
+<h1 align="center">🤖 Yusufbek Khamidullayev (Sairex)</h1>
 
-<h3 align="center">Backend Developer · Python</h3>
+<h3 align="center">🚀 Backend Developer · Python & Rust Engineer</h3>
 
 <p align="center">
   <b>Rust</b> &nbsp;•&nbsp; <b>Tauri</b> &nbsp;•&nbsp; <b>Python</b> &nbsp;•&nbsp; <b>Django</b> &nbsp;•&nbsp; <b>Docker</b> &nbsp;•&nbsp; <b>Linux</b>
@@ -20,10 +20,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![khamidullaevv trophies](https://github-profile-trophy.vercel.app/?username=khamidullaevv&theme=catppuccin&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 📊 Activity & Statistics
 
 <p align="center">
@@ -32,7 +28,9 @@
   </a>
 </p>
 
-![Top Languages](https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sayrex009s-projects.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin_mocha&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&theme=react-dark&hide_border=true" alt="Contribution Graph" />
