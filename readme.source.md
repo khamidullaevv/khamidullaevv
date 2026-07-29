@@ -1,26 +1,3 @@
-<h1 align="center">🤖 Yusufbek Khamidullayev (Sairex)</h1>
-
-<h3 align="center">🚀 Backend Developer · Python & Rust Engineer</h3>
-
-<p align="center">
-  <b>Rust</b> &nbsp;•&nbsp; <b>Tauri</b> &nbsp;•&nbsp; <b>Python</b> &nbsp;•&nbsp; <b>Django</b> &nbsp;•&nbsp; <b>Docker</b> &nbsp;•&nbsp; <b>Linux</b>
-</p>
-
-<p align="center">
-  <a href="https://t.me/khamidullaev_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://sairex-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/yusufbek-khamidullaev-757574389" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-### 📊 Activity & Statistics
 
 <p align="center">
   <img src="./assets/profile-card.svg" alt="Profile card" />
