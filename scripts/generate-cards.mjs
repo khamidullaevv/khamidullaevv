@@ -330,19 +330,22 @@ async function main() {
   ];
 
   const tags = [
-    { tag: "rust", color: palette.red },
-    { tag: "tauri", color: palette.mauve },
-    { tag: "python", color: palette.yellow },
-    { tag: "django", color: palette.green },
-    { tag: "docker", color: palette.blue },
-    { tag: "linux", color: palette.teal },
+    { tag: "JavaScript", color: palette.red },
+    { tag: "React", color: palette.mauve },
+    { tag: "Python", color: palette.yellow },
+    { tag: "Django", color: palette.green },
+    { tag: "Docker", color: palette.blue },
+    { tag: "Linux", color: palette.teal },
+    { tag: "Next.js", color: palette.rosewater},
+    { tag: "TypeScript", color: palette.blue },
+    { tag: "PostgreSQL", color: palette.green },
   ];
 
   console.log("Rendering profile card...");
   const profileSvg = await satori(
     ProfileCard({
       username: stats.name,
-      tagline: "Backend Developer · Python & Rust Engineer",
+      tagline: "Software Engineer",
       avatar: stats.avatar,
       tags,
     }),
