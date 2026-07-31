@@ -7,7 +7,7 @@ Backend Developer & Systems Engineer
 ## About Me
 
 - Specializing in building scalable backend services and cross-platform desktop applications.
-- Working daily with Linux environments (Fedora, NixOS).
+- Working daily with Linux environments (Cachyos).
 - Building production-ready projects using Python, Rust, and modern web tech.
 
 ---
@@ -15,22 +15,16 @@ Backend Developer & Systems Engineer
 ## Tech Stack
 
 **Languages**  
-`Python` `Rust` `TypeScript` `SQL`
+`Python` `Rust` `TypeScript` `JavaScript` `SQL`
 
 **Backend & Frameworks**  
-`Django` `Celery` `Redis` `REST API`
+`Django` `Celery` `Redis` `REST API` `Next.js` `React`
 
 **Systems & Tools**  
 `Tauri` `Docker` `Linux` `Git`
 
 ---
 
-## Featured Projects
-
-- **Metior** — Cross-platform desktop screenshot utility built with Rust and Tauri.
-- **Study Center CRM** — Backend system for managing educational workflows using Django, Celery, and Redis.
-
----
 
 ## Contact
 
