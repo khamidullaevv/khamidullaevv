@@ -1,6 +1,6 @@
 # Yusufbek Khamidullayev
 
-Software Engineer focused on Backend Development and Systems Programming.
+Backend Developer & Systems Engineer
 
 ---
 
@@ -8,7 +8,7 @@ Software Engineer focused on Backend Development and Systems Programming.
 
 - Specializing in building scalable backend services and cross-platform desktop applications.
 - Working daily with Linux environments (Fedora, NixOS).
-- Building production-ready projects with Python, Rust, and modern web tech.
+- Building production-ready projects using Python, Rust, and modern web tech.
 
 ---
 
@@ -17,11 +17,11 @@ Software Engineer focused on Backend Development and Systems Programming.
 **Languages**  
 `Python` `Rust` `TypeScript` `SQL`
 
-**Backend & Systems**  
-`Django` `Celery` `Redis` `Tauri` `REST API`
+**Backend & Frameworks**  
+`Django` `Celery` `Redis` `REST API`
 
-**DevOps & Tools**  
-`Docker` `Git` `Linux` `NixOS`
+**Systems & Tools**  
+`Tauri` `Docker` `Linux` `Git`
 
 ---
 
@@ -29,14 +29,6 @@ Software Engineer focused on Backend Development and Systems Programming.
 
 - **Metior** — Cross-platform desktop screenshot utility built with Rust and Tauri.
 - **Study Center CRM** — Backend system for managing educational workflows using Django, Celery, and Redis.
-
----
-
-## Activity & Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&theme=catppuccin&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=khamidullaevv&theme=catppuccin&hide_border=true&layout=compact)
 
 ---
 
