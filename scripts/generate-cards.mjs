@@ -349,7 +349,7 @@ async function main() {
       avatar: stats.avatar,
       tags,
     }),
-    { width: 560, height: 430, fonts }
+    { width: 860, height: 230, fonts }
   );
 
   console.log("Rendering stats card...");
