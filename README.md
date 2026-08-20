@@ -15,13 +15,13 @@ Backend Developer & Systems Engineer
 ## Tech Stack
 
 **Languages**  
-`Python` `Rust` `TypeScript` `JavaScript` `SQL`
+`Python` `TypeScript` `JavaScript` `SQL`
 
 **Backend & Frameworks**  
 `Django` `Celery` `Redis` `REST API` `Next.js` `React`
 
 **Systems & Tools**  
-`Tauri` `Docker` `Linux` `Git`
+`Docker` `Linux` `Git`
 
 ---
 
