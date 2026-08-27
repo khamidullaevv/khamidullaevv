@@ -7,7 +7,7 @@ Backend Developer & Systems Engineer
 ## About Me
 
 - Specializing in building scalable backend services and cross-platform desktop applications.
-- Working daily with Linux environments (NixOS).
+- Working daily with Linux environments.
 - Building production-ready projects using Python, Rust, and modern web tech.
 
 ---
