@@ -8,7 +8,7 @@ Backend Developer & Systems Engineer
 
 - Specializing in building scalable backend services and cross-platform desktop applications.
 - Working daily with Linux environments.
-- Building production-ready projects using Python, Rust, and modern web tech.
+- Building production-ready projects using Python, JavaScript, and modern web tech.
 
 ---
 
