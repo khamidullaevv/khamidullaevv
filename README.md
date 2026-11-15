@@ -4,16 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/khamidullaevv"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
-<a href="https://sairex-portfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
-<a href="https://t.me/khamidullaev_dev"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=A78BFA" /></a>
-<a href="https://www.linkedin.com/in/yusufbek-khamidullaev/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,django,redis,postgres,docker,linux,git,ts,js,react,nextjs&theme=dark" />
-
-<br/><br/>
 
 <!-- Профиль: карточки из GitHub Actions -->
 <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
@@ -25,20 +16,6 @@
 
 <br/><br/>
 
-<!-- Языки и 3D-календарь (lowlighter/metrics) -->
-<img src="./metrics.languages.svg" width="49%" />
-<img src="./metrics.isocalendar.svg" width="49%" />
-
-<br/><br/>
-
-<!-- Змейка -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/khamidullaevv/khamidullaevv/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:A78BFA,50:4C1D95,100:08080D" width="100%" />
 
