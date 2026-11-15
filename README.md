@@ -1,34 +1,24 @@
-# Yusufbek Khamidullayev
 
-Backend Developer & Systems Engineer
+<!-- GITHUB ANALYTICS -->
 
----
+<h2 align="center">SYSTEM ANALYTICS</h2>
+<p align="center">
+  <samp>ACTIVITY / PERFORMANCE / CONTRIBUTIONS</samp>
+</p>
 
-## About Me
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khamidullaevv&show_icons=true&hide_border=true&bg_color=050609&title_color=9B8CFF&text_color=C9C5D8&icon_color=8B5CF6&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamidullaevv&layout=donut&hide_border=true&bg_color=050609&title_color=9B8CFF&text_color=C9C5D8&langs_count=6" />
+</p>
 
-- Specializing in building scalable backend services and cross-platform desktop applications.
-- Working daily with Linux environments.
-- Building production-ready projects using Python, JavaScript, and modern web tech.
+<h2 align="center">CONTRIBUTION STREAK</h2>
 
----
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=khamidullaevv&background=050609&border=242033&stroke=242033&ring=8B5CF6&fire=9B8CFF&currStreakLabel=9B8CFF&sideLabels=C9C5D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=77738A&hide_border=true" />
+</p>
 
-## Tech Stack
+<h2 align="center">ACTIVITY GRAPH</h2>
 
-**Languages**  
-`Python` `TypeScript` `JavaScript` `SQL`
-
-**Backend & Frameworks**  
-`Django` `Celery` `Redis` `REST API` `Next.js` `React`
-
-**Systems & Tools**  
-`Docker` `Linux` `Git`
-
----
-
-
-## Contact
-
-- **Telegram:** [khamidullaev_dev](https://t.me/khamidullaev_dev)
-- **Portfolio:** [sairex-portfolio.vercel.app](https://sairex-portfolio.vercel.app)
-- **LinkedIn:** [yusufbek-khamidullaev](https://www.linkedin.com/in/yusufbek-khamidullaev-757574389)
-- **Email:** yusufbek090110@gmail.com
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khamidullaevv&bg_color=050609&color=C9C5D8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+</p>
