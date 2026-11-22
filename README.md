@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:08080D,50:171329,100:08080D&text=YUSUFBEK%20KHAMIDULLAYEV&fontColor=E8E2FF&fontSize=34&fontAlignY=42&desc=BACKEND%20DEVELOPER%20%7C%20SYSTEMS%20ENGINEER&descSize=13&descAlignY=68&descColor=A78BFA" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:08080D,50:171329,100:08080D&text=YUSUFBEK%20KHAMIDULLAYEV&fontColor=E8E2FF&fontSize=34&fontAlignY=42&desc=FULLSTACK%20DEVELOPER%20%7C%20SYSTEMS%20ENGINEER&descSize=13&descAlignY=68&descColor=A78BFA" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=A78BFA" width="100%" />
 
 <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
